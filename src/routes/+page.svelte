@@ -27,11 +27,10 @@
   let randomResponse: string = "";
 
   function diceRoll() {
-    return Math.floor(Math.random() * 10) === 1;
+    return Math.floor(Math.random() * 15) === 1; // The probability is 1/15
   }
 
   onMount(() => {
-    // if diceRoll() is true, then we get a random response, otherwise we set the response to "Yes"
     randomResponse = diceRoll()
       ? responses[Math.floor(Math.random() * responses.length)]
       : "Yes";
@@ -47,6 +46,8 @@
   <div class="grid place-items-center h-full">
     <p class="text-5xl font-semibold text-center">
       {randomResponse}
+      <!-- In the case JS is disabled -->
+      <noscript> Yes </noscript>
     </p>
   </div>
 
