@@ -1,6 +1,6 @@
 # ThisDomain.Works - The Greatest Website of All Time
 
-No, seriously. This is *probably* the most amazing, mind-blowing, extraordinary piece of internet real estate you will ever lay your eyes upon. This website, in all its minimalist glory, does what no other website has accomplished before. It single-handedly justifies its existence by simply displaying "Yes". (and possible other things)
+No, seriously. This is *probably* the most amazing, mind-blowing, extraordinary piece of internet real estate you will ever lay your eyes upon. This website, in all its minimalist glory, does what no other website has accomplished before. It single-handedly justifies its existence by simply displaying "Yes". (and possibly other things)
 
 ## What Can ThisDomain.Works Do For You?
 
